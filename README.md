@@ -8,8 +8,6 @@ It lets you:
 - keep `Meteor.userId()` and method/publication auth in sync with Better Auth sessions
 - use Better Auth for email/password flows while still working with Meteor's account-facing APIs
 
-This package currently targets app-local/community-package usage and is being developed in the open from the Loklok project.
-
 ## Status
 
 This package is experimental, but already covers the first useful auth flows:
